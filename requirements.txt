@@ -1,0 +1,3 @@
+# Optional: enables drag-and-drop in the GUI
+# The app runs without this; you can use the Browse buttons instead.
+tkinterdnd2>=0.3.0
